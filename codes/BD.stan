@@ -1,5 +1,5 @@
 // Stan code for the Box-Draper model with estimation of the decomposed covar matrix using cholesky factorization
-// This code adds prior simularion in the generated quantities
+// This code adds prior simulation in the generated quantities
 
 data{
   int<lower=1> N_t;                  // number of data
