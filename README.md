@@ -1,1 +1,1 @@
-# This repo contains data and code (R, Stan) belonging to the manuscript: "Multiresponse kinetics with estimation of the experimental variance-covariance matrix. A full Bayesian analysis using Stan"
+# This repo contains data and code (R, Stan) belonging to the manuscript: "Multiresponse kinetics with estimation of the experimental variance-covariance matrix. A full Bayesian analysis using Stan". It is published in the Journal of Food Engineering, 2024 (open access): https://doi.org/10.1016/j.jfoodeng.2024.112455
